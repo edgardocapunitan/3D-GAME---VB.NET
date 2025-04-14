@@ -1,0 +1,47 @@
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\bin\Debug\Start.exe.config
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\bin\Debug\Start.exe
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\bin\Debug\Start.pdb
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\bin\Debug\Start.xml
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\obj\Debug\Start.Form1.resources
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\obj\Debug\Start.Resources.resources
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\obj\Debug\Start.vbproj.GenerateResource.Cache
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\obj\Debug\Start.exe
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\obj\Debug\Start.xml
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\obj\Debug\Start.pdb
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\obj\Debug\Start.Form2.resources
+C:\Users\A6 7400\Documents\PRC 2\Start\Start\obj\Debug\Start.Form3.resources
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\bin\Debug\Start.exe.config
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.exe
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.xml
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.pdb
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\bin\Debug\Start.exe
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\bin\Debug\Start.pdb
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\bin\Debug\Start.xml
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.Form1.resources
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.Form2.resources
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.Form3.resources
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.Resources.resources
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.vbproj.GenerateResource.Cache
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.Form4.resources
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.Form5.resources
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.Form6.resources
+C:\Users\Lab1A\Documents\Sprite ni bong\Start\Start\obj\Debug\Start.Form7.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\bin\Debug\Start.exe.config
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.xml
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.pdb
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\bin\Debug\Start.exe
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\bin\Debug\Start.pdb
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\bin\Debug\Start.xml
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Form1.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Form2.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Form3.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Form4.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Form5.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Form6.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Form7.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Resources.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.vbproj.GenerateResource.Cache
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.exe
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Form8.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Form9.resources
+C:\Users\A6 7400\Downloads\Start-20221209T132414Z-001\Start\Start\obj\Debug\Start.Form10.resources
